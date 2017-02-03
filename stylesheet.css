@@ -1,0 +1,10 @@
+.Rounded_Rectangle_1 {
+  border-radius: 10px;
+  background-color: rgb(99, 143, 179);
+  position: absolute;
+  left: 450px;
+  top: 360px;
+  width: 1350px;
+  height: 495px;
+  z-index: 2;
+}
