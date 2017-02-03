@@ -8,3 +8,12 @@
   height: 495px;
   z-index: 2;
 }
+.Layer_1 {
+  background-image: url("Layer 1.png");
+  position: absolute;
+  left: 71px;
+  top: 233px;
+  width: 201px;
+  height: 201px;
+  z-index: 2;
+}
