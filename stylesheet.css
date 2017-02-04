@@ -14,15 +14,7 @@
   height: 5780px;
   z-index: 164;
 }
-.Menu {
-  background-image: url("Menu.png");
-  position: absolute;
-  left: 328px;
-  top: 302px;
-  width: 22px;
-  height: 18px;
-  z-index: 163;
-}
+
 .PRETTYPICS__WOW_ {
   font-size: 72px;
   font-family: "Comic Sans MS";
@@ -87,22 +79,4 @@
   width: 2344px;
   height: 5780px;
   z-index: 155;
-}
-.Layer_2 {
-  background-image: url("Layer 2.png");
-  position: absolute;
-  left: 983px;
-  top: 552px;
-  width: 541px;
-  height: 533px;
-  z-index: 153;
-}
-.Layer_1 {
-  background-image: url("Layer 1.png");
-  position: absolute;
-  left: -231px;
-  top: 242px;
-  width: 1769px;
-  height: 841px;
-  z-index: 152;
 }
